@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\ChingChong\bin\Debug\Database1.mdf
+C:\Users\Alex\source\repos\ChingChong\bin\Debug\Database1_log.ldf
+C:\Users\Alex\source\repos\ChingChong\bin\Debug\ChingChong.exe.config
+C:\Users\Alex\source\repos\ChingChong\bin\Debug\ChingChong.exe
+C:\Users\Alex\source\repos\ChingChong\bin\Debug\ChingChong.pdb
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.Form1.resources
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.Properties.Resources.resources
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.exe
+C:\Users\Alex\source\repos\ChingChong\obj\Debug\ChingChong.pdb
